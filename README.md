@@ -1,6 +1,6 @@
 Tên đề tài: Chữ ký số Elgmal và ứng dụng trong xác thực tính toàn vẹn của dữ liệu
-Nhóm: 02
-Thành viên nhóm:
+
+Nhóm: 02. Thành viên nhóm:
   1. Nguyễn Ánh Vân 	  Mã SV: 2023606604
   2. Đào Văn Công 		  Mã SV: 2023601884 
   3. Nguyễn Huy Hiệu 	  Mã SV: 2023602822 
