@@ -7,5 +7,7 @@ Nhóm: 02. Thành viên nhóm:
   4. Nguyễn Đức Trung 	Mã SV: 2023600531 
   5. Lê Thanh Tuân		  Mã SV: 2023601512
 
-- file Báo cáo.dox: Nội dung báo cáo đã thực hiện.
 - file Phiếu_BÁO CÁO HỌC TẬP CÁ NHÂN NHÓM 02.dox: Nội dung phân công công việc cho từng cá nhân trong nhóm theo các tuần.
+- Các thư mục Tuanx: Chứa file báo cáo của tuần x.
+- file Bao cao tuan x.dox: Nội dung báo cáo của tuần x đã thực hiện.
+
